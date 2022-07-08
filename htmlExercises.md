@@ -87,7 +87,7 @@ ___
 
 # Envelope Address
 
-![image.png](https://stacked-prod.s3.ap-southeast-1.amazonaws.com/files/7M4PP50M.png)
+![Envelope](https://github.com/ciciGit/repo1/blob/main/images/envelope.png?raw=true)
 
 Here is an example of addresses printed in a mailing envelope.
 
@@ -99,7 +99,7 @@ ___
 
 Display 5 images/icons that when clicked will link to various online shopping platforms(Shopee, Lazada, Shein, Amazon, eBay, etc).
 
-![image.png](https://stacked-prod.s3.ap-southeast-1.amazonaws.com/files/36N11pbE.png)
+![OnlineShopping](https://github.com/ciciGit/repo1/blob/main/images/shopee.png?raw=true)
 
 ___
 
@@ -135,7 +135,7 @@ ___
 
 # Online Resume
 
-![image.png](https://stacked-prod.s3.ap-southeast-1.amazonaws.com/files/3kBRRdwk.png).
+![Online Resume](https://github.com/ciciGit/repo1/blob/main/images/resume.png?raw=true)
 
 Let’s create an online resume.
 1. Start with your name, address and phone number. Use an alternate typeface such as Arial.
@@ -148,7 +148,7 @@ ___
 
 # Puzzle
 
-![image.png](https://stacked-prod.s3.ap-southeast-1.amazonaws.com/files/x8JQQDBl.png)
+![Puzzle](https://github.com/ciciGit/repo1/blob/main/images/puzzle.png?raw=true)
 
 Construct this puzzle looking thing. It will exercise your knowledge of colspan and rowspan. It's not as easy as it looks. Keep at it until you work it out.
 
@@ -162,7 +162,7 @@ ___
 
 
 
-![image.png](https://stacked-prod.s3.ap-southeast-1.amazonaws.com/files/75Naanv5.png)
+![SurveyForm](https://github.com/ciciGit/repo1/blob/main/images/survey.png?raw=true)
 
 
 Create a survey form similar to the form above.
