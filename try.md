@@ -1,9 +1,13 @@
 
-These are headings in html
-# h1 Heading
-## h2 Heading
-### h3 Heading
-#### h4 Heading
-##### h5 Heading
-###### h6 Heading
+# Your Name
 
+Print your name to the screen with every letter being a different heading size.
+
+Example:
+
+###### C
+##### H
+#### E
+### R
+## R
+# Y
